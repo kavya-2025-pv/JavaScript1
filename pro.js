@@ -1,44 +1,44 @@
-// console.log("hello, This is external javascript")
-// var name;
-// name="Rama";
-// var name;
-// name="Sita";
-// console.log(name);
+console.log("hello, This is external javascript")
+var name;
+name="Rama";
+var name;
+name="Sita";
+console.log(name);
 
 
 
-// let Name;
-// Name="Kavya";
+let Name;
+Name="Kavya";
 
-// Name="Gowda";
+Name="Gowda";
 
-// console.log(Name);
-
-
-// const Nm="Hii";
-// console.log(Nm);
-// function print(){
-//     console.log(name);
-// }
-// print()
+console.log(Name);
 
 
-// {
-//     var AA="hii"
+const Nm="Hii";
+console.log(Nm);
+function print(){
+    console.log(name);
+}
+print()
+
+
+{
+    var AA="hii"
     
-// }
-// console.log(AA)
+}
+console.log(AA)
 
-// {
-//     let AAA="hii"
-//     console.log(AAA)
-// }
+{
+    let AAA="hii"
+    console.log(AAA)
+}
 
-// {
-//     const name="hello";
-//     console.log(name)
+{
+    const name="hello";
+    console.log(name)
 
-// }
+}
 
 function print(){
     var Name="Kavya"
